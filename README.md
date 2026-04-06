@@ -37,7 +37,7 @@ Aegis operates on a **Controller Pattern**:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/aegis-orchestrator.git](https://github.com/yourusername/aegis-orchestrator.git)
+   git clone [ https://github.com/DipuYadav5253/Automated-Container-Lifecycle-Manager-Observability-Suite.git]([https://github.com/yourusername/aegis-orchestrator.git](https://github.com/DipuYadav5253/Automated-Container-Lifecycle-Manager-Observability-Suite).git)
    cd aegis-orchestrator
 
 
